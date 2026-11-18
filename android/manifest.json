@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-11-18T13:46:54.093Z",
+  "platform": "android",
+  "total_packages": 7,
+  "updates": [
+    {
+      "remote_id": "core_shell",
+      "target_version": "0.0.1",
+      "file_name": "core_shell.0.0.1.zip",
+      "file_size": 646039,
+      "checksum_sha256": "81143fa8866fc4550b71cffd8286bddea6bf60f9b00d4e4dfa829a8ea7042d49"
+    },
+    {
+      "remote_id": "remote-customer",
+      "target_version": "1.0.0",
+      "file_name": "remote-customer.1.0.0.zip",
+      "file_size": 270534,
+      "checksum_sha256": "8907e97c2f7a1a9d9d924bda13436b6739c13e8b4c8fa9bfc03e1201ed4900c5"
+    },
+    {
+      "remote_id": "remote-dashboard",
+      "target_version": "1.0.0",
+      "file_name": "remote-dashboard.1.0.0.zip",
+      "file_size": 454219,
+      "checksum_sha256": "dbd6ed68ca1f9ae5da82d0a50f8262e263338db2bebd15aadb03408b564a82da"
+    },
+    {
+      "remote_id": "remote-launch-auth",
+      "target_version": "1.0.0",
+      "file_name": "remote-launch-auth.1.0.0.zip",
+      "file_size": 539058,
+      "checksum_sha256": "f77dd76addb6d288710bd61375e816ad52dbd8c43b11a58c2a01496114ef87c6"
+    },
+    {
+      "remote_id": "remote-loan-origination",
+      "target_version": "1.0.0",
+      "file_name": "remote-loan-origination.1.0.0.zip",
+      "file_size": 270542,
+      "checksum_sha256": "1aa1405738b5f66078862ca01832e43a459642d67f9a761f9fb3e0fd150383be"
+    },
+    {
+      "remote_id": "remote-notification",
+      "target_version": "1.0.0",
+      "file_name": "remote-notification.1.0.0.zip",
+      "file_size": 436092,
+      "checksum_sha256": "c7f0176741acd156ed31ab3f1865817cf3cc93a00d61c601b853d1706f05ddb5"
+    },
+    {
+      "remote_id": "remote-showcase",
+      "target_version": "1.0.0",
+      "file_name": "remote-showcase.1.0.0.zip",
+      "file_size": 618257,
+      "checksum_sha256": "886de770b4f04bfbe74fe5e9204c7ad3859b369faf740087804fb46447e157cf"
+    }
+  ]
+}
