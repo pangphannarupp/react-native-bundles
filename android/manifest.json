@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-18T15:08:01.586Z",
+  "generated_at": "2026-11-18T15:33:51.548Z",
   "platform": "android",
   "total_packages": 2,
   "updates": [
     {
       "remote_id": "remote-dashboard",
-      "target_version": "1.0.1",
-      "file_name": "remote-dashboard.1.0.1.zip",
-      "file_size": 454234,
-      "checksum_sha256": "c7976e6b49bb17e28218de971b17498a622e369b759cefc257502cbd23ff3b76"
+      "target_version": "1.0.2",
+      "file_name": "remote-dashboard.1.0.2.zip",
+      "file_size": 454232,
+      "checksum_sha256": "ef974d11928e77cd5e6384a9e47e8b1f10fb223df61ef5d57d6480721bbae6c7"
     },
     {
       "remote_id": "core_shell",
-      "target_version": "0.0.3",
-      "file_name": "core_shell.0.0.3.zip",
-      "file_size": 646103,
-      "checksum_sha256": "1676b59d798ab0152b0eb26b132299c0e13ac5eeaf22b3d18854ff74e77150cb"
+      "target_version": "0.0.4",
+      "file_name": "core_shell.0.0.4.zip",
+      "file_size": 646097,
+      "checksum_sha256": "98c3c64849cf9ed7ad74bf9e67cc35de1edfccc079ed44acfb9164fd37c22176"
     }
   ]
 }
