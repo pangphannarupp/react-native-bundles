@@ -1,14 +1,56 @@
 {
-  "generated_at": "2026-11-18T14:34:32.245Z",
+  "generated_at": "2026-11-18T15:03:04.201Z",
   "platform": "android",
-  "total_packages": 1,
+  "total_packages": 7,
   "updates": [
+    {
+      "remote_id": "core_shell",
+      "target_version": "0.0.2",
+      "file_name": "core_shell.0.0.2.zip",
+      "file_size": 646092,
+      "checksum_sha256": "fd8b47b9d4a372528b9097af4a02ab1b9e192dfb4e0d8dee63232bbcc2cded46"
+    },
     {
       "remote_id": "remote-notification",
       "target_version": "1.0.1",
       "file_name": "remote-notification.1.0.1.zip",
-      "file_size": 436097,
-      "checksum_sha256": "1566a645227f033fd5dc5e0a968219b5a1cfdae9e10fb336cbe5da523de342b7"
+      "file_size": 436497,
+      "checksum_sha256": "616f7b3387f2202d0efecec21d7beb91f06796da9e3bc4d4e3c4d796fecbca24"
+    },
+    {
+      "remote_id": "remote-customer",
+      "target_version": "1.0.0",
+      "file_name": "remote-customer.1.0.0.zip",
+      "file_size": 270534,
+      "checksum_sha256": "6e0250a0d39841d9659d08c257c232c3cdcc0859519e7296b3fc93ac5ab90c77"
+    },
+    {
+      "remote_id": "remote-dashboard",
+      "target_version": "1.0.0",
+      "file_name": "remote-dashboard.1.0.0.zip",
+      "file_size": 454219,
+      "checksum_sha256": "e839ac4baa0ed6aad1d6b797813fcb27bb5b1509453713812c80cf331427f474"
+    },
+    {
+      "remote_id": "remote-launch-auth",
+      "target_version": "1.0.0",
+      "file_name": "remote-launch-auth.1.0.0.zip",
+      "file_size": 539058,
+      "checksum_sha256": "0cb94e6c230c061c147c9ac95cbb3f0c66cdbe2f6492fa6ac26a54b3c4eaca82"
+    },
+    {
+      "remote_id": "remote-loan-origination",
+      "target_version": "1.0.0",
+      "file_name": "remote-loan-origination.1.0.0.zip",
+      "file_size": 270542,
+      "checksum_sha256": "6497bb1e6c834a09282e8418e5634bae02cc94e8a87cf83518389905d24912ca"
+    },
+    {
+      "remote_id": "remote-showcase",
+      "target_version": "1.0.0",
+      "file_name": "remote-showcase.1.0.0.zip",
+      "file_size": 618257,
+      "checksum_sha256": "55a09341e69fe03a3c8555b1e423af1ce0433aa5519ddd50d078a9db1f6805c7"
     }
   ]
 }
