@@ -5,7 +5,7 @@
     "name": "core_shell",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.2",
+      "buildVersion": "1.0.3",
       "buildName": "ReactNativeMicoFrontEndBase"
     },
     "remoteEntry": {
