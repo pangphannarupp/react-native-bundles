@@ -1,30 +1,38 @@
 {
   "platform": "android",
   "build_mode": "both",
-  "generated_at": "2026-11-20T10:41:22.208Z",
+  "generated_at": "2026-11-20T13:25:44.603Z",
   "updates": [
     {
       "remote_id": "remote-dashboard",
-      "target_version": "1.0.7",
+      "target_version": "1.0.8",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "remote-dashboard.1.0.7.zip",
-      "file_size": 2315654,
-      "checksum_sha256": "48b21c71489af8b6d34c290bb4dcf5d95a6a7840932c92a332e7d43453ba5133",
+      "file_name": "remote-dashboard.1.0.8.zip",
+      "file_size": 2315662,
+      "checksum_sha256": "3998ebdff8617fd513b875aa39fdf299a00726d2c0335a4f550176d1f3f2a998",
       "patch": {
-        "from_version": "1.0.6",
-        "file_name": "remote-dashboard.1.0.6_to_1.0.7.patch.zip",
+        "from_version": "1.0.7",
+        "file_name": "remote-dashboard.1.0.7_to_1.0.8.patch.zip",
         "file_size": 567,
-        "checksum_sha256": "ed9afafba2538e4b918895873913b59c1758b72b68105757a49f0482d6a07c04",
+        "checksum_sha256": "e128925e80770e94ae038b62e91af35ce16e62a677b112da6dac9bf79e6e7edc",
         "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
         "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
       },
       "patches": [
         {
-          "from_version": "1.0.6",
-          "file_name": "remote-dashboard.1.0.6_to_1.0.7.patch.zip",
+          "from_version": "1.0.7",
+          "file_name": "remote-dashboard.1.0.7_to_1.0.8.patch.zip",
           "file_size": 567,
-          "checksum_sha256": "ed9afafba2538e4b918895873913b59c1758b72b68105757a49f0482d6a07c04",
+          "checksum_sha256": "e128925e80770e94ae038b62e91af35ce16e62a677b112da6dac9bf79e6e7edc",
+          "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
+          "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
+        },
+        {
+          "from_version": "1.0.6",
+          "file_name": "remote-dashboard.1.0.6_to_1.0.8.patch.zip",
+          "file_size": 567,
+          "checksum_sha256": "310f4eccb8cbca45df7162ede60db9e3577efa9f173c801c0aed7db6d147624c",
           "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
           "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
         }
