@@ -1,48 +1,40 @@
 {
   "platform": "android",
   "build_mode": "both",
-  "generated_at": "2026-11-20T13:36:02.997Z",
+  "generated_at": "2026-11-20T13:52:19.247Z",
   "updates": [
     {
-      "remote_id": "remote-dashboard",
-      "target_version": "1.0.9",
+      "remote_id": "core_shell",
+      "target_version": "0.0.21",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "remote-dashboard.1.0.9.zip",
-      "file_size": 2315661,
-      "checksum_sha256": "3856d57b096a505bb246357f6aaf19f0c35a3bb40e4b791203f836c8ea26c7c3",
+      "file_name": "core_shell.0.0.21.zip",
+      "file_size": 2865039,
+      "checksum_sha256": "ac8accdf4720e0a1d74af5d46030185404ebf280d442f1ba1f59c2fc514cb439",
       "patch": {
-        "from_version": "1.0.8",
-        "file_name": "remote-dashboard.1.0.8_to_1.0.9.patch.zip",
-        "file_size": 12150,
-        "checksum_sha256": "a89e180a80181726b2c57a347a3f163e4a525f4fbab099db1622cf15f050a21d",
-        "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
-        "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
+        "from_version": "0.0.20",
+        "file_name": "core_shell.0.0.20_to_0.0.21.patch.zip",
+        "file_size": 2166273,
+        "checksum_sha256": "bb7390294d393bcc0bed9252591f4297c50ffe4886761bfd3f416a906522a75f",
+        "base_bundle_sha256": "7c79c6f8b1410aab0e9dc02a22164ebea27db32c9b59446cf279b307fa44cfe1",
+        "target_bundle_sha256": "7ed23b730bea994703d8b64af9e20ebb1b4730539b11edf44e6894f47609bb53"
       },
       "patches": [
         {
-          "from_version": "1.0.8",
-          "file_name": "remote-dashboard.1.0.8_to_1.0.9.patch.zip",
-          "file_size": 12150,
-          "checksum_sha256": "a89e180a80181726b2c57a347a3f163e4a525f4fbab099db1622cf15f050a21d",
-          "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
-          "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
+          "from_version": "0.0.20",
+          "file_name": "core_shell.0.0.20_to_0.0.21.patch.zip",
+          "file_size": 2166273,
+          "checksum_sha256": "bb7390294d393bcc0bed9252591f4297c50ffe4886761bfd3f416a906522a75f",
+          "base_bundle_sha256": "7c79c6f8b1410aab0e9dc02a22164ebea27db32c9b59446cf279b307fa44cfe1",
+          "target_bundle_sha256": "7ed23b730bea994703d8b64af9e20ebb1b4730539b11edf44e6894f47609bb53"
         },
         {
-          "from_version": "1.0.7",
-          "file_name": "remote-dashboard.1.0.7_to_1.0.9.patch.zip",
-          "file_size": 169918,
-          "checksum_sha256": "88c96e76749610e401a63081cb87b32cd712eb123e5335419762b3ff7010d5ca",
-          "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
-          "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
-        },
-        {
-          "from_version": "1.0.6",
-          "file_name": "remote-dashboard.1.0.6_to_1.0.9.patch.zip",
-          "file_size": 169918,
-          "checksum_sha256": "1da9388ae537e48f5d879f9d9aac6c40065755545e6d07c1e806bc8a5e7be372",
-          "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
-          "target_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4"
+          "from_version": "0.0.18",
+          "file_name": "core_shell.0.0.18_to_0.0.21.patch.zip",
+          "file_size": 2810605,
+          "checksum_sha256": "fb1b60b276ad6d895cebbaec07f1764660eb78fc770962165b345dd3aabeb4e6",
+          "base_bundle_sha256": "b3664ba752b7d14412e3e3c9a58668de7331497e17c7833cbd69b7f5bdb69d9c",
+          "target_bundle_sha256": "7ed23b730bea994703d8b64af9e20ebb1b4730539b11edf44e6894f47609bb53"
         }
       ]
     }
