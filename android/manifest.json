@@ -1,56 +1,56 @@
 {
-  "generated_at": "2026-11-20T04:19:52.362Z",
+  "generated_at": "2026-11-20T04:58:12.508Z",
   "platform": "android",
   "total_packages": 7,
   "updates": [
     {
       "remote_id": "core_shell",
-      "target_version": "0.0.14",
-      "file_name": "core_shell.0.0.14.zip",
-      "file_size": 670996,
-      "checksum_sha256": "329b30a9e7be933e36754cca4f60bca9c0ab982d73f53af25356e682732bb190"
+      "target_version": "0.0.15",
+      "file_name": "core_shell.0.0.15.zip",
+      "file_size": 675127,
+      "checksum_sha256": "e32951f349575836db4085a9a0b774f225dcb25a2d3c580ac6c6e0dafeece94e"
     },
     {
       "remote_id": "remote-customer",
       "target_version": "1.0.0",
       "file_name": "remote-customer.1.0.0.zip",
       "file_size": 269951,
-      "checksum_sha256": "372b6b6f007d3c39781d3a1cb0dd17cfc633226c849f90c122cdd31333103ce2"
+      "checksum_sha256": "7eac94f5246fc67735e9ea9bf46da47a9b3dab8aa5c00aa49928463273ec92af"
     },
     {
       "remote_id": "remote-dashboard",
       "target_version": "1.0.4",
       "file_name": "remote-dashboard.1.0.4.zip",
       "file_size": 462604,
-      "checksum_sha256": "e3d0d402e9f4ab9d1aece4c60484d5948360b49de61a9e85d785c46ab14dfa03"
+      "checksum_sha256": "e218501e72b99bc5bfe48190499f9cdfc0f46ca96b0039fb903a83ec0d63beb7"
     },
     {
       "remote_id": "remote-launch-auth",
       "target_version": "1.0.3",
       "file_name": "remote-launch-auth.1.0.3.zip",
-      "file_size": 556954,
-      "checksum_sha256": "2809b47bb538a26d95ff3f9e93176ae268386bc90cdbb06b2c34f652e45857b7"
+      "file_size": 561004,
+      "checksum_sha256": "32834e3832aaf050d30db9ebb5d9d5843e220c34bfc759f0fc9329a98a16c26f"
     },
     {
       "remote_id": "remote-loan-origination",
       "target_version": "1.0.0",
       "file_name": "remote-loan-origination.1.0.0.zip",
       "file_size": 269962,
-      "checksum_sha256": "bcaba0da79ca8a5a965d15ca3c278f8b9ebaf7031bba96d367ea541c74a6b5a8"
+      "checksum_sha256": "840666ecfc88ea2b69b850fb2f2cf6072b098837d2ad85b1ed2a48f89b8b382e"
     },
     {
       "remote_id": "remote-notification",
       "target_version": "1.0.3",
       "file_name": "remote-notification.1.0.3.zip",
       "file_size": 441861,
-      "checksum_sha256": "7231abe19a8e194b6806ac138097909181a89d8dbb64c810c7bb2c1431c68015"
+      "checksum_sha256": "891c9b9f8520dd17b145c5f1862a087a72d01a6e9ca5219666aaf42f7a799930"
     },
     {
       "remote_id": "remote-showcase",
       "target_version": "1.0.2",
       "file_name": "remote-showcase.1.0.2.zip",
-      "file_size": 644120,
-      "checksum_sha256": "c2f66d7c0f747ff32bf3759b838f9bc9f3c98517c5a00523a2c7f3afda5b014b"
+      "file_size": 648329,
+      "checksum_sha256": "864ad2e71c6b81989f60ee30e053a7b69649db96296266e4e4ed3a46797789f9"
     }
   ]
 }
