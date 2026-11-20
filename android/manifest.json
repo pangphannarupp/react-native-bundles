@@ -1,30 +1,38 @@
 {
   "platform": "android",
   "build_mode": "both",
-  "generated_at": "2026-11-20T15:29:14.519Z",
+  "generated_at": "2026-11-20T16:03:52.572Z",
   "updates": [
     {
       "remote_id": "remote-launch-auth",
-      "target_version": "1.0.4",
+      "target_version": "1.0.5",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "remote-launch-auth.1.0.4.zip",
-      "file_size": 650174,
-      "checksum_sha256": "cd4c8668fac991a9652e54025862d7df899e7347c08953fd6de59036b005a9fc",
+      "file_name": "remote-launch-auth.1.0.5.zip",
+      "file_size": 650186,
+      "checksum_sha256": "02eafe53883e240b7b17488d6c76b14221634f7699ee5551ea8bb811784fb472",
       "patch": {
-        "from_version": "1.0.3",
-        "file_name": "remote-launch-auth.1.0.3_to_1.0.4.patch.zip",
-        "file_size": 240102,
-        "checksum_sha256": "ae48647c03f8d980a65a98f539e64cc7229cca88d86c5e98ac9d4c08ab7c42ff",
-        "base_bundle_sha256": "f946c9aaa0a00a41c232876005da908a584c705309e5671197501c4b5757c644",
+        "from_version": "1.0.4",
+        "file_name": "remote-launch-auth.1.0.4_to_1.0.5.patch.zip",
+        "file_size": 133321,
+        "checksum_sha256": "b6e57b48d29479d6733a3e9b2547501086ec523c98751fcba78f056973590bef",
+        "base_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820",
         "target_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820"
       },
       "patches": [
         {
+          "from_version": "1.0.4",
+          "file_name": "remote-launch-auth.1.0.4_to_1.0.5.patch.zip",
+          "file_size": 133321,
+          "checksum_sha256": "b6e57b48d29479d6733a3e9b2547501086ec523c98751fcba78f056973590bef",
+          "base_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820",
+          "target_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820"
+        },
+        {
           "from_version": "1.0.3",
-          "file_name": "remote-launch-auth.1.0.3_to_1.0.4.patch.zip",
-          "file_size": 240102,
-          "checksum_sha256": "ae48647c03f8d980a65a98f539e64cc7229cca88d86c5e98ac9d4c08ab7c42ff",
+          "file_name": "remote-launch-auth.1.0.3_to_1.0.5.patch.zip",
+          "file_size": 240114,
+          "checksum_sha256": "79f5de6520a6f4030799d6eb24a71ca12b90784e479dd8ee82ad1d94c26145b4",
           "base_bundle_sha256": "f946c9aaa0a00a41c232876005da908a584c705309e5671197501c4b5757c644",
           "target_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820"
         }
