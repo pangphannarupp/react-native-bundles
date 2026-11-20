@@ -1,48 +1,56 @@
 {
   "platform": "android",
   "build_mode": "both",
-  "generated_at": "2026-11-20T14:15:42.037Z",
+  "generated_at": "2026-11-20T14:21:27.296Z",
   "updates": [
     {
       "remote_id": "core_shell",
-      "target_version": "0.0.22",
+      "target_version": "1.0.1",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "core_shell.0.0.22.zip",
-      "file_size": 2865306,
-      "checksum_sha256": "e9d79e63fb13d74d9b995c37c696524d5963f9b7bd58d5f8f111cba7c8fb62fe",
+      "file_name": "core_shell.1.0.1.zip",
+      "file_size": 2865290,
+      "checksum_sha256": "f110632f8bbadf2198a4cbab57514802310073f9891166eeecb1cc899d118d58",
       "patch": {
-        "from_version": "0.0.21",
-        "file_name": "core_shell.0.0.21_to_0.0.22.patch.zip",
-        "file_size": 2166511,
-        "checksum_sha256": "a4821ba281ced72fff41c25549b4f6adfc44f9df8893d3ee1ca5dd886f9eb6fd",
-        "base_bundle_sha256": "5871ea7cf0863185c0210950ef0883be7d6932e70665af6c2a2132fae11e39e0",
-        "target_bundle_sha256": "308a694297f5a83f947d8cd603c0c239cb43943c2c68f99cb6b20fde9ae44b9f"
+        "from_version": "0.0.22",
+        "file_name": "core_shell.0.0.22_to_1.0.1.patch.zip",
+        "file_size": 2166330,
+        "checksum_sha256": "ccda338884bcc6ec3a039016ca20ab4642054c0676d97a9301c525d76f5485fc",
+        "base_bundle_sha256": "308a694297f5a83f947d8cd603c0c239cb43943c2c68f99cb6b20fde9ae44b9f",
+        "target_bundle_sha256": "1bc4c4cbdf6b8316b80718204ac57c268c9c0a7b738e28e5bfddc8fbf0f1dd31"
       },
       "patches": [
         {
+          "from_version": "0.0.22",
+          "file_name": "core_shell.0.0.22_to_1.0.1.patch.zip",
+          "file_size": 2166330,
+          "checksum_sha256": "ccda338884bcc6ec3a039016ca20ab4642054c0676d97a9301c525d76f5485fc",
+          "base_bundle_sha256": "308a694297f5a83f947d8cd603c0c239cb43943c2c68f99cb6b20fde9ae44b9f",
+          "target_bundle_sha256": "1bc4c4cbdf6b8316b80718204ac57c268c9c0a7b738e28e5bfddc8fbf0f1dd31"
+        },
+        {
           "from_version": "0.0.21",
-          "file_name": "core_shell.0.0.21_to_0.0.22.patch.zip",
-          "file_size": 2166511,
-          "checksum_sha256": "a4821ba281ced72fff41c25549b4f6adfc44f9df8893d3ee1ca5dd886f9eb6fd",
+          "file_name": "core_shell.0.0.21_to_1.0.1.patch.zip",
+          "file_size": 2166504,
+          "checksum_sha256": "df8d844e48b097c84c97d639e41532211f1461a78d96dd74323b503f62874cda",
           "base_bundle_sha256": "5871ea7cf0863185c0210950ef0883be7d6932e70665af6c2a2132fae11e39e0",
-          "target_bundle_sha256": "308a694297f5a83f947d8cd603c0c239cb43943c2c68f99cb6b20fde9ae44b9f"
+          "target_bundle_sha256": "1bc4c4cbdf6b8316b80718204ac57c268c9c0a7b738e28e5bfddc8fbf0f1dd31"
         },
         {
           "from_version": "0.0.20",
-          "file_name": "core_shell.0.0.20_to_0.0.22.patch.zip",
-          "file_size": 2166653,
-          "checksum_sha256": "87dfb2845bcade1c2bef2de7c0896b64bde670cd71a4d03aa42824f6f8f54843",
+          "file_name": "core_shell.0.0.20_to_1.0.1.patch.zip",
+          "file_size": 2166647,
+          "checksum_sha256": "7efac1bfda3736d338e4e45d3cbbef1b3f8f7e70167d70de343cc66da0944050",
           "base_bundle_sha256": "7c79c6f8b1410aab0e9dc02a22164ebea27db32c9b59446cf279b307fa44cfe1",
-          "target_bundle_sha256": "308a694297f5a83f947d8cd603c0c239cb43943c2c68f99cb6b20fde9ae44b9f"
+          "target_bundle_sha256": "1bc4c4cbdf6b8316b80718204ac57c268c9c0a7b738e28e5bfddc8fbf0f1dd31"
         },
         {
           "from_version": "0.0.18",
-          "file_name": "core_shell.0.0.18_to_0.0.22.patch.zip",
-          "file_size": 2810973,
-          "checksum_sha256": "707c13620d685ce05272f45ea2e7166ab64edb5dcaf4916f7e235219eda50a5d",
+          "file_name": "core_shell.0.0.18_to_1.0.1.patch.zip",
+          "file_size": 2811025,
+          "checksum_sha256": "5880c01df3bd20a3fcecc99517a52fd175a7bce210c8b0abb12d6cca92484744",
           "base_bundle_sha256": "b3664ba752b7d14412e3e3c9a58668de7331497e17c7833cbd69b7f5bdb69d9c",
-          "target_bundle_sha256": "308a694297f5a83f947d8cd603c0c239cb43943c2c68f99cb6b20fde9ae44b9f"
+          "target_bundle_sha256": "1bc4c4cbdf6b8316b80718204ac57c268c9c0a7b738e28e5bfddc8fbf0f1dd31"
         }
       ]
     }
