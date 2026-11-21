@@ -1,72 +1,72 @@
 {
   "platform": "android",
   "build_mode": "both",
-  "generated_at": "2026-11-21T13:43:38.710Z",
+  "generated_at": "2026-11-21T13:50:26.000Z",
   "updates": [
     {
       "remote_id": "core_shell",
-      "target_version": "1.0.17",
+      "target_version": "1.0.18",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "core_shell.1.0.17.zip",
-      "file_size": 705400,
-      "checksum_sha256": "7fde937ccbc2ace1a6dfa5ad7eae247d910d1ff45b4ecad8de65186b16edc858",
+      "file_name": "core_shell.1.0.18.zip",
+      "file_size": 705410,
+      "checksum_sha256": "cb0bc2446ea2efb4ee796862fa37d94f7b50323d4a63646f15424702bf8bac15",
       "patch": {
-        "from_version": "1.0.16",
-        "file_name": "core_shell.1.0.16_to_1.0.17.patch.zip",
-        "file_size": 2165,
-        "checksum_sha256": "5c906d103c339d06288980416f980b32c5026eb385578bf5c767928bd2353c6e",
-        "base_bundle_sha256": "96a64e782de244c030cdbf746b6668a64481945abb84797c51ef861a55a4fac1",
-        "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
+        "from_version": "1.0.17",
+        "file_name": "core_shell.1.0.17_to_1.0.18.patch.zip",
+        "file_size": 2196,
+        "checksum_sha256": "e95b6e32917823d0c19334a08620f9e97566b7d4df3c1665f77f390df02603e3",
+        "base_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d",
+        "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
       },
       "patches": [
         {
+          "from_version": "1.0.17",
+          "file_name": "core_shell.1.0.17_to_1.0.18.patch.zip",
+          "file_size": 2196,
+          "checksum_sha256": "e95b6e32917823d0c19334a08620f9e97566b7d4df3c1665f77f390df02603e3",
+          "base_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d",
+          "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
+        },
+        {
           "from_version": "1.0.16",
-          "file_name": "core_shell.1.0.16_to_1.0.17.patch.zip",
-          "file_size": 2165,
-          "checksum_sha256": "5c906d103c339d06288980416f980b32c5026eb385578bf5c767928bd2353c6e",
+          "file_name": "core_shell.1.0.16_to_1.0.18.patch.zip",
+          "file_size": 2290,
+          "checksum_sha256": "75d3b8a68d2705baf5d10cd7dddecea237467f53aef92386d6ab593edac89b7a",
           "base_bundle_sha256": "96a64e782de244c030cdbf746b6668a64481945abb84797c51ef861a55a4fac1",
-          "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
+          "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
         },
         {
           "from_version": "1.0.15",
-          "file_name": "core_shell.1.0.15_to_1.0.17.patch.zip",
-          "file_size": 3835,
-          "checksum_sha256": "8f58df1d46e82641e0899cd88752f37b13416ff4189b66afaa5bca4efcba24a0",
+          "file_name": "core_shell.1.0.15_to_1.0.18.patch.zip",
+          "file_size": 3869,
+          "checksum_sha256": "2abaee71290e75ea4d67148304d6b82d3c0151a6ff3da394a6ec3c93bc0f8d8c",
           "base_bundle_sha256": "0b639ea72b9c040b550bae1212922182c76aa295acbf60b289c8eb52ec06e5fb",
-          "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
+          "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
         },
         {
           "from_version": "1.0.13",
-          "file_name": "core_shell.1.0.13_to_1.0.17.patch.zip",
-          "file_size": 7688,
-          "checksum_sha256": "7809c6ef7052380eaab8a4ab31b0ab1b9fa5831f026f968fd83ed924798df55f",
+          "file_name": "core_shell.1.0.13_to_1.0.18.patch.zip",
+          "file_size": 7739,
+          "checksum_sha256": "82a3e5b10a44fab4864db3d037def9145e2e858c073437088b47bb1388bff295",
           "base_bundle_sha256": "bac198ca63ff771b694bbe38e00e9e4372bcd98fc25161b12a96285afd03b5ee",
-          "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
+          "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
         },
         {
           "from_version": "1.0.12",
-          "file_name": "core_shell.1.0.12_to_1.0.17.patch.zip",
-          "file_size": 7463,
-          "checksum_sha256": "0b3713733debe3a37da639e2d0d5bf08f3d06bedb47da159c6e1bfe81598e08a",
+          "file_name": "core_shell.1.0.12_to_1.0.18.patch.zip",
+          "file_size": 7513,
+          "checksum_sha256": "227a29a5c4dc59072189dc608f202c010f827669fa17d5dc773f249d1d85000b",
           "base_bundle_sha256": "657e586577da4fa92fee8c57d0befc6ef10e49480070055d669d3198c0f2fbf3",
-          "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
-        },
-        {
-          "from_version": "1.0.11",
-          "file_name": "core_shell.1.0.11_to_1.0.17.patch.zip",
-          "file_size": 7791,
-          "checksum_sha256": "b81e681aefe6329662601611dd8a6dd57c2af4d5a13e028396fead02ae1a68bd",
-          "base_bundle_sha256": "429f57c38adc485239bacac5ea15c1a0f549b0cae6b88ea610566f587cf07657",
-          "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
+          "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
         },
         {
           "from_version": "0.0.18",
-          "file_name": "core_shell.0.0.18_to_1.0.17.patch.zip",
-          "file_size": 651597,
-          "checksum_sha256": "2f56b009a82b11e76c6ce5ab070e90d28a898420a0b4ad7e62ea73aaf12c8b42",
+          "file_name": "core_shell.0.0.18_to_1.0.18.patch.zip",
+          "file_size": 651616,
+          "checksum_sha256": "fc1c5e5e1d3ac0ea874e959db45516ef9b19de29a409adbeddbb45bccd39b5b2",
           "base_bundle_sha256": "b3664ba752b7d14412e3e3c9a58668de7331497e17c7833cbd69b7f5bdb69d9c",
-          "target_bundle_sha256": "8ef567d9370b73982efaf3cf4d8691aa7084bbc377457114fee319c8263a3f0d"
+          "target_bundle_sha256": "125a1b79f217eeea6190d7aff0610731b5a0c2b80844d191a178f18498f40f9e"
         }
       ]
     },
@@ -76,57 +76,65 @@
       "bundler": "repack",
       "build_mode": "both",
       "file_name": "remote-customer.1.0.0.zip",
-      "file_size": 465382,
-      "checksum_sha256": "0fbc511f20a786911276214e57a816a7262255b637bf5b969bd52f1fa29b4f88"
+      "file_size": 465380,
+      "checksum_sha256": "087bca3dd6f411c2259946ddfcc0c55db3462a9afc976c60587b9effce62ee50"
     },
     {
       "remote_id": "remote-dashboard",
-      "target_version": "1.0.13",
+      "target_version": "1.0.14",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "remote-dashboard.1.0.13.zip",
-      "file_size": 551602,
-      "checksum_sha256": "639818d4ad89eb10833b5358f04868a2045e30b4e6990862e1d8cdc70424f66f",
+      "file_name": "remote-dashboard.1.0.14.zip",
+      "file_size": 551624,
+      "checksum_sha256": "f3de1b6598812701aebe9c322ee6be3cba4044c4cd1f7ffe50a4313f5be932e6",
       "patch": {
-        "from_version": "1.0.12",
-        "file_name": "remote-dashboard.1.0.12_to_1.0.13.patch.zip",
-        "file_size": 52848,
-        "checksum_sha256": "c5719a3cafa3e710d1b1e7956c9f853efe377e691be96dc8b2f171b13d23e9a0",
-        "base_bundle_sha256": "0473aeb8f3d99831dc674583268db4559c5826ce11ca93ad8e466b1abe455ed0",
-        "target_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de"
+        "from_version": "1.0.13",
+        "file_name": "remote-dashboard.1.0.13_to_1.0.14.patch.zip",
+        "file_size": 52871,
+        "checksum_sha256": "cbdc50f52e0ba95bc49a1a7e910b90f090be2c1216396c81e235761028e4c1dc",
+        "base_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de",
+        "target_bundle_sha256": "861fa478bf3a7c8b3e86b3587344a6d0c75208c9e581d440ec0f2eb0ddfd836f"
       },
       "patches": [
         {
+          "from_version": "1.0.13",
+          "file_name": "remote-dashboard.1.0.13_to_1.0.14.patch.zip",
+          "file_size": 52871,
+          "checksum_sha256": "cbdc50f52e0ba95bc49a1a7e910b90f090be2c1216396c81e235761028e4c1dc",
+          "base_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de",
+          "target_bundle_sha256": "861fa478bf3a7c8b3e86b3587344a6d0c75208c9e581d440ec0f2eb0ddfd836f"
+        },
+        {
           "from_version": "1.0.12",
-          "file_name": "remote-dashboard.1.0.12_to_1.0.13.patch.zip",
-          "file_size": 52848,
-          "checksum_sha256": "c5719a3cafa3e710d1b1e7956c9f853efe377e691be96dc8b2f171b13d23e9a0",
+          "file_name": "remote-dashboard.1.0.12_to_1.0.14.patch.zip",
+          "file_size": 52871,
+          "checksum_sha256": "4f67627f84eb0f5ceb340c37fa75a68189b824eebb55f3394598d1b10fb09758",
           "base_bundle_sha256": "0473aeb8f3d99831dc674583268db4559c5826ce11ca93ad8e466b1abe455ed0",
-          "target_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de"
+          "target_bundle_sha256": "861fa478bf3a7c8b3e86b3587344a6d0c75208c9e581d440ec0f2eb0ddfd836f"
         },
         {
           "from_version": "1.0.11",
-          "file_name": "remote-dashboard.1.0.11_to_1.0.13.patch.zip",
-          "file_size": 98654,
-          "checksum_sha256": "16ad7f36b1852c274bf715366982d3850bac50ab2cd05064189bf11ef731913e",
+          "file_name": "remote-dashboard.1.0.11_to_1.0.14.patch.zip",
+          "file_size": 98676,
+          "checksum_sha256": "534b58d802f29e74dc13e8598e68a0cc5336c7db3b67b1482ba9ad244f3e1e54",
           "base_bundle_sha256": "2e4b49fd8a751f4ce16bd0285876e9d2798fccffa3fa3a087fe748fa64bec350",
-          "target_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de"
+          "target_bundle_sha256": "861fa478bf3a7c8b3e86b3587344a6d0c75208c9e581d440ec0f2eb0ddfd836f"
         },
         {
           "from_version": "1.0.10",
-          "file_name": "remote-dashboard.1.0.10_to_1.0.13.patch.zip",
-          "file_size": 141279,
-          "checksum_sha256": "f9507d888a4c965eab80b1594f1b07e6e7454dc44212910be13cae2e4d33f04e",
+          "file_name": "remote-dashboard.1.0.10_to_1.0.14.patch.zip",
+          "file_size": 141303,
+          "checksum_sha256": "a2eb21330228a63b096d93c5ae622c9665215def052920f3e2081e9ba92b989e",
           "base_bundle_sha256": "d997a71bc0fabe6dd86c404f2074436e12cf3eb1010ed072c33a6969d5f615e5",
-          "target_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de"
+          "target_bundle_sha256": "861fa478bf3a7c8b3e86b3587344a6d0c75208c9e581d440ec0f2eb0ddfd836f"
         },
         {
           "from_version": "1.0.9",
-          "file_name": "remote-dashboard.1.0.9_to_1.0.13.patch.zip",
-          "file_size": 141271,
-          "checksum_sha256": "24aaa0f58d531a0f9a604dd5a450eb395478c14904a9350855a60663cca788e9",
+          "file_name": "remote-dashboard.1.0.9_to_1.0.14.patch.zip",
+          "file_size": 141293,
+          "checksum_sha256": "d7551ba8c1ff348e8946cc81f2848a33c495331170709b72d612586322791c23",
           "base_bundle_sha256": "373dcb28cdfbd441a1986ba560bc28d4eda1465820efd359da529c3092297ef4",
-          "target_bundle_sha256": "c6a188ad4083fcc87328624b450455ddbe817fd2ca86c3c257408aaab9f218de"
+          "target_bundle_sha256": "861fa478bf3a7c8b3e86b3587344a6d0c75208c9e581d440ec0f2eb0ddfd836f"
         }
       ]
     },
@@ -136,40 +144,40 @@
       "bundler": "repack",
       "build_mode": "both",
       "file_name": "remote-launch-auth.1.0.6.zip",
-      "file_size": 654241,
-      "checksum_sha256": "801f8a2d826dff3b6ce2bd03f66f54ebbf974b0be645b2c2f2cd76f6051528c7",
+      "file_size": 654254,
+      "checksum_sha256": "0013ef15c9b7baf3bf10e6c39da78c7e1be2d40f57a85766ef0a2b6e86fb6e7c",
       "patch": {
         "from_version": "1.0.5",
         "file_name": "remote-launch-auth.1.0.5_to_1.0.6.patch.zip",
-        "file_size": 186402,
-        "checksum_sha256": "dafb9752f8ee8ca3976b72c5b498bbcb40da3dbb2e1a684626862c15b61883ed",
+        "file_size": 186413,
+        "checksum_sha256": "4ae0a36138edeca7856366abd64c6ccb716ff3ee956d5a6db636008f0293b9ad",
         "base_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820",
-        "target_bundle_sha256": "70cbca5e8d6b3834ad01910ae9dde24f4fdddb07107f9c1a2342a8816fa7d9f5"
+        "target_bundle_sha256": "146966e399b4deea9cd5a90ec6d5931d546aad5d571af0eacc1f69066ccd20a0"
       },
       "patches": [
         {
           "from_version": "1.0.5",
           "file_name": "remote-launch-auth.1.0.5_to_1.0.6.patch.zip",
-          "file_size": 186402,
-          "checksum_sha256": "dafb9752f8ee8ca3976b72c5b498bbcb40da3dbb2e1a684626862c15b61883ed",
+          "file_size": 186413,
+          "checksum_sha256": "4ae0a36138edeca7856366abd64c6ccb716ff3ee956d5a6db636008f0293b9ad",
           "base_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820",
-          "target_bundle_sha256": "70cbca5e8d6b3834ad01910ae9dde24f4fdddb07107f9c1a2342a8816fa7d9f5"
+          "target_bundle_sha256": "146966e399b4deea9cd5a90ec6d5931d546aad5d571af0eacc1f69066ccd20a0"
         },
         {
           "from_version": "1.0.4",
           "file_name": "remote-launch-auth.1.0.4_to_1.0.6.patch.zip",
-          "file_size": 186401,
-          "checksum_sha256": "61929ecbaa1ab6f0ec05bf7af94a5e177268e8ffb4a6ec1aadeb4561d865c6c6",
+          "file_size": 186413,
+          "checksum_sha256": "3c69528032572e21dfcf1be47f8844d3659e7c11d4b67d36913911c93ab0f46c",
           "base_bundle_sha256": "ece84b2c8f2ad280347936dfcbabc246b442b8278a8caeb227c16150ae3c9820",
-          "target_bundle_sha256": "70cbca5e8d6b3834ad01910ae9dde24f4fdddb07107f9c1a2342a8816fa7d9f5"
+          "target_bundle_sha256": "146966e399b4deea9cd5a90ec6d5931d546aad5d571af0eacc1f69066ccd20a0"
         },
         {
           "from_version": "1.0.3",
           "file_name": "remote-launch-auth.1.0.3_to_1.0.6.patch.zip",
-          "file_size": 244169,
-          "checksum_sha256": "ec88b252789e836833e511ca0847480eff6e6b603ff68bf17e3ef448f6784996",
+          "file_size": 244180,
+          "checksum_sha256": "ada8406076faf676db417c5104eba145451e1bd6212a67c2551ce4cd3ec1106e",
           "base_bundle_sha256": "f946c9aaa0a00a41c232876005da908a584c705309e5671197501c4b5757c644",
-          "target_bundle_sha256": "70cbca5e8d6b3834ad01910ae9dde24f4fdddb07107f9c1a2342a8816fa7d9f5"
+          "target_bundle_sha256": "146966e399b4deea9cd5a90ec6d5931d546aad5d571af0eacc1f69066ccd20a0"
         }
       ]
     },
@@ -179,8 +187,8 @@
       "bundler": "repack",
       "build_mode": "both",
       "file_name": "remote-loan-origination.1.0.0.zip",
-      "file_size": 466478,
-      "checksum_sha256": "08bc1a4a0ff9a2fed2015dd25d09bfb86111529043957dbcec9a265ebbffb6a2"
+      "file_size": 466477,
+      "checksum_sha256": "2faad8cb1c07ff837f5d82790598276fa05edb49c8e72c529c782e3e362ad6d4"
     },
     {
       "remote_id": "remote-notification",
@@ -188,51 +196,59 @@
       "bundler": "repack",
       "build_mode": "both",
       "file_name": "remote-notification.1.0.4.zip",
-      "file_size": 530423,
-      "checksum_sha256": "a0618bfd1f1f79d17b7617fccb0b9a2c96be9ca113fd76320ba04b3392597888",
+      "file_size": 530425,
+      "checksum_sha256": "c4067c6cca324934a214560c7fccd5c47d44ba7782d4656a48671e2afbf901ac",
       "patch": {
         "from_version": "1.0.3",
         "file_name": "remote-notification.1.0.3_to_1.0.4.patch.zip",
-        "file_size": 122295,
-        "checksum_sha256": "d59329e961d49825b688bee769d6b8f86182a6b80bac3dcd9aedb9f42dd367c8",
+        "file_size": 122298,
+        "checksum_sha256": "8715e968e1be7f938bd65e454ef9539a0d37ee59374e80901c149be49ca7ed36",
         "base_bundle_sha256": "2ccc02cf5e5e5bf4238fb48129e62d360e2e0832c9d44c9de790313f90d54b0e",
-        "target_bundle_sha256": "821b0f58efe48c1536f007639187400509748d179d497ad2a1d02658984601a5"
+        "target_bundle_sha256": "5f33a081968972dbcd5f044b5e76f9f1f1490f511d3e724fcaa38b5aa00f4b28"
       },
       "patches": [
         {
           "from_version": "1.0.3",
           "file_name": "remote-notification.1.0.3_to_1.0.4.patch.zip",
-          "file_size": 122295,
-          "checksum_sha256": "d59329e961d49825b688bee769d6b8f86182a6b80bac3dcd9aedb9f42dd367c8",
+          "file_size": 122298,
+          "checksum_sha256": "8715e968e1be7f938bd65e454ef9539a0d37ee59374e80901c149be49ca7ed36",
           "base_bundle_sha256": "2ccc02cf5e5e5bf4238fb48129e62d360e2e0832c9d44c9de790313f90d54b0e",
-          "target_bundle_sha256": "821b0f58efe48c1536f007639187400509748d179d497ad2a1d02658984601a5"
+          "target_bundle_sha256": "5f33a081968972dbcd5f044b5e76f9f1f1490f511d3e724fcaa38b5aa00f4b28"
         }
       ]
     },
     {
       "remote_id": "remote-showcase",
-      "target_version": "1.0.4",
+      "target_version": "1.0.5",
       "bundler": "repack",
       "build_mode": "both",
-      "file_name": "remote-showcase.1.0.4.zip",
-      "file_size": 731432,
-      "checksum_sha256": "1c0fd85ff809ea7c8ecd02d023ef959a104baeeffdf2182d3e474d11255f5f72",
+      "file_name": "remote-showcase.1.0.5.zip",
+      "file_size": 731442,
+      "checksum_sha256": "4bf9ee67438476f6a3e33be46a40d05c4d48d44d86b337232b54d7bc0214088a",
       "patch": {
-        "from_version": "1.0.3",
-        "file_name": "remote-showcase.1.0.3_to_1.0.4.patch.zip",
-        "file_size": 273861,
-        "checksum_sha256": "9a83991f7202418cd156a457c09474983d59dbf368779597bd6bdc1de4d87ce9",
-        "base_bundle_sha256": "5eb8df4e43c1e0145a834d85500766f8b773126467e1c3e9e8b4d3d8e61f4712",
-        "target_bundle_sha256": "979cd48ede623ceef8fd335c27759b6a06df031bbe4cfc27177467924816b1ad"
+        "from_version": "1.0.4",
+        "file_name": "remote-showcase.1.0.4_to_1.0.5.patch.zip",
+        "file_size": 273870,
+        "checksum_sha256": "9b48de0ab8141ae2731ad83847d71abce3e5f2dc6eb1119ab930ba8ae5ff5bd4",
+        "base_bundle_sha256": "979cd48ede623ceef8fd335c27759b6a06df031bbe4cfc27177467924816b1ad",
+        "target_bundle_sha256": "60cadaedc8bc67664ea31ad10328a8f3c47c73bfddd8513fb68b4a9d4d7ef392"
       },
       "patches": [
         {
+          "from_version": "1.0.4",
+          "file_name": "remote-showcase.1.0.4_to_1.0.5.patch.zip",
+          "file_size": 273870,
+          "checksum_sha256": "9b48de0ab8141ae2731ad83847d71abce3e5f2dc6eb1119ab930ba8ae5ff5bd4",
+          "base_bundle_sha256": "979cd48ede623ceef8fd335c27759b6a06df031bbe4cfc27177467924816b1ad",
+          "target_bundle_sha256": "60cadaedc8bc67664ea31ad10328a8f3c47c73bfddd8513fb68b4a9d4d7ef392"
+        },
+        {
           "from_version": "1.0.3",
-          "file_name": "remote-showcase.1.0.3_to_1.0.4.patch.zip",
-          "file_size": 273861,
-          "checksum_sha256": "9a83991f7202418cd156a457c09474983d59dbf368779597bd6bdc1de4d87ce9",
+          "file_name": "remote-showcase.1.0.3_to_1.0.5.patch.zip",
+          "file_size": 273869,
+          "checksum_sha256": "5bb1c8e75ff1a5f2af46f51bbc84d270a3c4b457223f30418e1661cbfe56422e",
           "base_bundle_sha256": "5eb8df4e43c1e0145a834d85500766f8b773126467e1c3e9e8b4d3d8e61f4712",
-          "target_bundle_sha256": "979cd48ede623ceef8fd335c27759b6a06df031bbe4cfc27177467924816b1ad"
+          "target_bundle_sha256": "60cadaedc8bc67664ea31ad10328a8f3c47c73bfddd8513fb68b4a9d4d7ef392"
         }
       ]
     }
