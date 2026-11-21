@@ -5,7 +5,7 @@
     "name": "remote_dashboard",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.12",
+      "buildVersion": "1.0.13",
       "buildName": "@mfe/remote-dashboard"
     },
     "remoteEntry": {
