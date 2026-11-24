@@ -5,7 +5,7 @@
     "name": "core_shell",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.7",
+      "buildVersion": "1.0.20",
       "buildName": "ReactNativeMicoFrontEndBase"
     },
     "remoteEntry": {
@@ -47,26 +47,6 @@
     {
       "id": "core_shell:@mfe/theme",
       "name": "@mfe/theme",
-      "version": "1.0.0",
-      "singleton": true,
-      "requiredVersion": "^1.0.0",
-      "assets": {
-        "js": {
-          "async": [],
-          "sync": [
-            "index.bundle"
-          ]
-        },
-        "css": {
-          "async": [],
-          "sync": []
-        }
-      },
-      "fallback": ""
-    },
-    {
-      "id": "core_shell:@mfe/ui-components",
-      "name": "@mfe/ui-components",
       "version": "1.0.0",
       "singleton": true,
       "requiredVersion": "^1.0.0",

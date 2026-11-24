@@ -474,10 +474,10 @@
           "async": [
             "vendors-node_modules_react-native_Libraries_Utilities_Platform_android_js.chunk.bundle",
             "node_modules_invariant_browser_js-_8f080.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_Core_registerCallableModule_js-node_modules_react-208554.chunk.bundle",
-            "vendors-node_modules_react-native_Libraries_Alert_Alert_js-node_modules_react-native_Librarie-458b8e.chunk.bundle",
             "node_modules_invariant_browser_js-_8f081.chunk.bundle",
-            "node_modules_invariant_browser_js-_8f082.chunk.bundle"
+            "node_modules_invariant_browser_js-_8f082.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Core_registerCallableModule_js-node_modules_react-208554.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Alert_Alert_js-node_modules_react-native_Librarie-458b8e.chunk.bundle"
           ]
         },
         "css": {

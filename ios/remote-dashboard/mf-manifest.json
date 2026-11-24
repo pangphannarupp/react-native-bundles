@@ -5,7 +5,7 @@
     "name": "remote_dashboard",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.12",
+      "buildVersion": "1.0.16",
       "buildName": "@mfe/remote-dashboard"
     },
     "remoteEntry": {
@@ -525,7 +525,7 @@
       "assets": {
         "js": {
           "sync": [
-            "packages_core_i18n_ts-packages_core_logger_index_ts-packages_core_services_index_ts-packages_-81b3d7.chunk.bundle",
+            "packages_core_i18n_ts-packages_core_logger_index_ts-packages_core_services_index_ts-packages_-c9f6a0.chunk.bundle",
             "__federation_expose_index.chunk.bundle"
           ],
           "async": [

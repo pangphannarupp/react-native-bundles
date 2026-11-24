@@ -5,7 +5,7 @@
     "name": "remote_notification",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.4",
+      "buildVersion": "1.0.6",
       "buildName": "@mfe/remote-notification"
     },
     "remoteEntry": {
@@ -546,7 +546,7 @@
       "assets": {
         "js": {
           "sync": [
-            "packages_core_i18n_ts-packages_core_theme_ThemeContext_tsx.chunk.bundle",
+            "packages_core_i18n_ts-packages_core_theme_index_ts.chunk.bundle",
             "__federation_expose_index.chunk.bundle"
           ],
           "async": [

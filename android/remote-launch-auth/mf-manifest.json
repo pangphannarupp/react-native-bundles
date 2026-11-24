@@ -5,7 +5,7 @@
     "name": "remote_launch_auth",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.6",
+      "buildVersion": "1.0.8",
       "buildName": "@mfe/remote-launch-auth"
     },
     "remoteEntry": {
@@ -547,7 +547,7 @@
         "js": {
           "sync": [
             "packages_core_i18n_ts-packages_core_logger_index_ts-packages_core_services_index_ts-packages_-f773cd.chunk.bundle",
-            "packages_core_config_index_ts-packages_core_theme_ThemeContext_tsx.chunk.bundle",
+            "packages_core_config_index_ts-packages_core_theme_index_ts.chunk.bundle",
             "packages_ui-components_hooks_index_ts-src_launch_theme_tokens_ts-webpack_sharing_consume_defa-ce2241.chunk.bundle",
             "__federation_expose_LaunchNavigator.chunk.bundle"
           ],
@@ -582,7 +582,7 @@
           "async": [
             "vendors-node_modules_react-native_Libraries_Utilities_Platform_android_js.chunk.bundle",
             "node_modules_invariant_browser_js-_8f080.chunk.bundle",
-            "packages_core_config_index_ts-packages_core_theme_ThemeContext_tsx.chunk.bundle",
+            "packages_core_config_index_ts-packages_core_theme_index_ts.chunk.bundle",
             "packages_core_i18n_ts-packages_core_logger_index_ts-packages_core_services_index_ts-packages_-f773cd.chunk.bundle",
             "packages_ui-components_hooks_index_ts-src_launch_theme_tokens_ts-webpack_sharing_consume_defa-ce2241.chunk.bundle",
             "__federation_expose_LaunchNavigator.chunk.bundle"
