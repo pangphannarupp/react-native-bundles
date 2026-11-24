@@ -1,16 +1,16 @@
 {
   "platform": "ios",
   "build_mode": "full",
-  "generated_at": "2026-11-24T09:18:27.852Z",
+  "generated_at": "2026-11-24T09:27:26.396Z",
   "updates": [
     {
       "remote_id": "core_shell",
-      "target_version": "1.0.29",
+      "target_version": "1.0.30",
       "bundler": "repack",
       "build_mode": "full",
-      "file_name": "core_shell.1.0.29.zip",
-      "file_size": 764577,
-      "checksum_sha256": "74671dddbf4cd449f1a5e60074a8a736df3ca981bfdf1ef7f5f52b4f2d7c84ee"
+      "file_name": "core_shell.1.0.30.zip",
+      "file_size": 764921,
+      "checksum_sha256": "d4c76190ef2682b0d90e1f7c05ffb557ca719197e2037880fbfa9e7e6a9991dc"
     },
     {
       "remote_id": "remote-customer",
@@ -18,8 +18,8 @@
       "bundler": "repack",
       "build_mode": "full",
       "file_name": "remote-customer.1.0.0.zip",
-      "file_size": 482297,
-      "checksum_sha256": "bc7efa44f08b9c31312f1f3a4690070bfba9e5ac4f4bd29a091d449cb0c897ae"
+      "file_size": 482326,
+      "checksum_sha256": "088e6a420fc497792dbbb5062f5ed0e1eb277cc127c19b41c857cfa6f437824f"
     },
     {
       "remote_id": "remote-dashboard",
@@ -27,8 +27,8 @@
       "bundler": "repack",
       "build_mode": "full",
       "file_name": "remote-dashboard.1.0.24.zip",
-      "file_size": 584266,
-      "checksum_sha256": "228c2c76fa05cc98508705bc1f6b8d5e606444fe52ef42a2e96ddd1f9485677c"
+      "file_size": 584352,
+      "checksum_sha256": "f0726aee2d61058c5509d68ea4a9f8342d8fdd7b616b26aadcd92cc732e1f259"
     },
     {
       "remote_id": "remote-launch-auth",
@@ -36,8 +36,8 @@
       "bundler": "repack",
       "build_mode": "full",
       "file_name": "remote-launch-auth.1.0.8.zip",
-      "file_size": 675407,
-      "checksum_sha256": "29129ca1f57389e5ba09ec3227be313e560e824f92d71871246cd69bd63b13de"
+      "file_size": 675650,
+      "checksum_sha256": "5cb751faee666ee1deb59716450af03d33ccdfc7bbdbf3a98e97c0bdd3f6c6e5"
     },
     {
       "remote_id": "remote-loan-origination",
@@ -45,17 +45,17 @@
       "bundler": "repack",
       "build_mode": "full",
       "file_name": "remote-loan-origination.1.0.0.zip",
-      "file_size": 483493,
-      "checksum_sha256": "c7db81ae7e176b274bad6b30f28317906530c826ad388592d0cad1a6dfc3d96b"
+      "file_size": 483518,
+      "checksum_sha256": "a785d7c129f370f08ef52523bea5f70297bb9c1fc23f35c6a94597bda1418573"
     },
     {
       "remote_id": "remote-notification",
-      "target_version": "1.0.9",
+      "target_version": "1.0.10",
       "bundler": "repack",
       "build_mode": "full",
-      "file_name": "remote-notification.1.0.9.zip",
-      "file_size": 550292,
-      "checksum_sha256": "9094d1ee71a43cc1fb1f78b8f007c30404413c2c96615a8b601234f5f6925034"
+      "file_name": "remote-notification.1.0.10.zip",
+      "file_size": 550319,
+      "checksum_sha256": "e4009db2b29adfd2592f252a325a39a2de3f61de99dbe8500a17f62165438db1"
     },
     {
       "remote_id": "remote-showcase",
@@ -63,8 +63,8 @@
       "bundler": "repack",
       "build_mode": "full",
       "file_name": "remote-showcase.1.0.7.zip",
-      "file_size": 786919,
-      "checksum_sha256": "09a0b40eb5291ab82f582883b3706fc259a3df6b73fcbc19db99ee5fa33eff86"
+      "file_size": 787158,
+      "checksum_sha256": "ac040d7fbccc2e32a76b3a5f182818579017305bcbe147b36b26ffe77cc1a4e1"
     }
   ]
 }
