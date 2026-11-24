@@ -526,7 +526,7 @@
       "assets": {
         "js": {
           "sync": [
-            "packages_core_analytics_LoanJourneyTracker_ts-packages_core_config_index_ts-packages_core_i18-93f3d2.chunk.bundle",
+            "packages_core_analytics_LoanJourneyTracker_ts-packages_core_i18n_ts-packages_core_logger_inde-ba591e.chunk.bundle",
             "__federation_expose_ShowcaseNavigator.chunk.bundle"
           ],
           "async": [
