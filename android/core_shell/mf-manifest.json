@@ -5,7 +5,7 @@
     "name": "core_shell",
     "type": "app",
     "buildInfo": {
-      "buildVersion": "1.0.34",
+      "buildVersion": "1.0.35",
       "buildName": "ReactNativeMicoFrontEndBase"
     },
     "remoteEntry": {
@@ -47,6 +47,26 @@
     {
       "id": "core_shell:@mfe/theme",
       "name": "@mfe/theme",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "index.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "core_shell:@mfe/ui-components",
+      "name": "@mfe/ui-components",
       "version": "1.0.0",
       "singleton": true,
       "requiredVersion": "^1.0.0",
@@ -581,6 +601,12 @@
       "moduleName": "ShowcaseNavigator",
       "alias": "remote_showcase",
       "entry": "http://localhost:9006/android/remote-showcase.container.bundle"
+    },
+    {
+      "federationContainerName": "remote_publishing",
+      "moduleName": "index",
+      "alias": "remote_publishing",
+      "entry": "http://localhost:9007/android/remote-publishing.container.bundle"
     },
     {
       "federationContainerName": "remote_customer",

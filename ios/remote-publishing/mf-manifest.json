@@ -1,0 +1,530 @@
+{
+  "id": "remote_publishing",
+  "name": "remote_publishing",
+  "metaData": {
+    "name": "remote_publishing",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@mfe/remote-publishing"
+    },
+    "remoteEntry": {
+      "name": "remote-publishing.container.bundle",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "remote_publishing",
+    "pluginVersion": "2.9.3",
+    "publicPath": "noop:///"
+  },
+  "shared": [
+    {
+      "id": "remote_publishing:@mfe/theme",
+      "name": "@mfe/theme",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "packages_theme_index_ts-_1c600.chunk.bundle",
+            "packages_theme_index_ts-_1c601.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@mfe/ui-components",
+      "name": "@mfe/ui-components",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "packages_ui-components_index_ts.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@react-native-community/blur",
+      "name": "@react-native-community/blur",
+      "version": "4.4.1",
+      "singleton": true,
+      "requiredVersion": "^4.4.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react-native-community_blur_src_index_tsx-_2a9c0.chunk.bundle",
+            "node_modules_react-native-community_blur_src_index_tsx-_2a9c1.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@react-native/normalize-colors",
+      "name": "@react-native/normalize-colors",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react-native_normalize-colors_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@react-native/virtualized-lists",
+      "name": "@react-native/virtualized-lists",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_virtualized-lists_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@react-navigation/native-stack",
+      "name": "@react-navigation/native-stack",
+      "version": "7.21.0",
+      "singleton": true,
+      "requiredVersion": "^7.21.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-navigation_native-stack_lib_module_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@react-navigation/native",
+      "name": "@react-navigation/native",
+      "version": "7.5.1",
+      "singleton": true,
+      "requiredVersion": "^7.5.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-navigation_native_lib_module_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native-bizmob-plugin",
+      "name": "react-native-bizmob-plugin",
+      "version": "0.1.12",
+      "singleton": true,
+      "requiredVersion": "^0.1.12",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native-bizmob-plugin_lib_module_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native-safe-area-context",
+      "name": "react-native-safe-area-context",
+      "version": "5.5.2",
+      "singleton": true,
+      "requiredVersion": "^5.5.2",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react-native-safe-area-context_src_index_tsx-_afa20.chunk.bundle",
+            "node_modules_react-native-safe-area-context_src_index_tsx-_afa21.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native-screens",
+      "name": "react-native-screens",
+      "version": "4.30.1",
+      "singleton": true,
+      "requiredVersion": "^4.30.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native-screens_src_index_tsx.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native-svg",
+      "name": "react-native-svg",
+      "version": "15.16.0",
+      "singleton": true,
+      "requiredVersion": "^15.16.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native-svg_src_index_ts.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/Components/View/ReactNativeStyleAttributes",
+      "name": "react-native/Libraries/Components/View/ReactNativeStyleAttributes",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_Libraries_Components_View_ReactNativeStyleAttributes_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/Image/AssetRegistry",
+      "name": "react-native/Libraries/Image/AssetRegistry",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react-native_src_asset-registry_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/Image/resolveAssetSource",
+      "name": "react-native/Libraries/Image/resolveAssetSource",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_Libraries_Image_resolveAssetSource_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "name": "react-native/Libraries/NativeComponent/NativeComponentRegistry",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_Libraries_NativeComponent_NativeComponentRegistry_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "name": "react-native/Libraries/NativeComponent/ViewConfigIgnore",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-node_modules_invarian-bf5e44.chunk.bundle",
+            "node_modules_react-native_Libraries_NativeComponent_ViewConfigIgnore_js-node_modules_swc_help-d5af82.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_NativeComponent_NativeComponentRegistry_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/ReactNative/AppContainer",
+      "name": "react-native/Libraries/ReactNative/AppContainer",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_Libraries_ReactNative_AppContainer_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/ReactNative/RendererProxy",
+      "name": "react-native/Libraries/ReactNative/RendererProxy",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_Libraries_ReactNative_RendererProxy_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/Libraries/StyleSheet/processColorArray",
+      "name": "react-native/Libraries/StyleSheet/processColorArray",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react-native_Libraries_StyleSheet_processColorArray_js-node_modules_swc_helpers_-5ea6f3.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_NativeComponent_NativeComponentRegistry_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/react-private-interface",
+      "name": "react-native/react-private-interface",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_src_react-private-interface_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native/setup-env",
+      "name": "react-native/setup-env",
+      "version": "0.88.0",
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_src_setup-env_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react-native",
+      "name": "react-native",
+      "version": "0.88.0",
+      "singleton": true,
+      "requiredVersion": "^0.88.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "vendors-node_modules_react-native_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:react",
+      "name": "react",
+      "version": "19.3.0",
+      "singleton": true,
+      "requiredVersion": "^19.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "node_modules_react_index_js.chunk.bundle"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    },
+    {
+      "id": "remote_publishing:@react-native/asset-utils",
+      "name": "@react-native/asset-utils",
+      "version": "*",
+      "singleton": true,
+      "requiredVersion": "^*",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": []
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "fallback": ""
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "remote_publishing:index",
+      "name": "index",
+      "assets": {
+        "js": {
+          "sync": [
+            "packages_core_i18n_ts-packages_core_theme_index_ts-packages_ui-components_modals_index_ts.chunk.bundle",
+            "__federation_expose_index.chunk.bundle"
+          ],
+          "async": [
+            "vendors-node_modules_react-native_Libraries_Utilities_Platform_ios_js.chunk.bundle",
+            "node_modules_invariant_browser_js-_8f080.chunk.bundle",
+            "node_modules_invariant_browser_js-_8f081.chunk.bundle",
+            "node_modules_invariant_browser_js-_8f082.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_Core_registerCallableModule_js-node_modules_react-208554.chunk.bundle",
+            "vendors-node_modules_react-native_Libraries_EventEmitter_NativeEventEmitter_js-node_modules_r-1d877b.chunk.bundle",
+            "node_modules_react-native_Libraries_Components_View_ViewNativeComponent_js-node_modules_react-714881.chunk.bundle",
+            "node_modules_invariant_browser_js-_8f083.chunk.bundle"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./index"
+    }
+  ]
+}
