@@ -1,0 +1,42 @@
+{
+  "platform": "android",
+  "build_mode": "both",
+  "generated_at": "2026-11-26T06:39:57.212Z",
+  "updates": [
+    {
+      "remote_id": "app_bundle",
+      "target_version": "1.0.40",
+      "bundler": "metro",
+      "build_mode": "both",
+      "file_name": "app_bundle.1.0.40.zip",
+      "file_size": 747775,
+      "checksum_sha256": "3b993d4f05098f4b2ad76a3978e75786950ef721fa5d7200a0431e4338dcba97",
+      "patch": {
+        "from_version": "1.0.39",
+        "file_name": "app_bundle.1.0.39_to_1.0.40.patch.zip",
+        "file_size": 1258,
+        "checksum_sha256": "83f3407bb961bbfdb232a3afff4382098322beb6597642a75d4093bbf4d48378",
+        "base_bundle_sha256": "26ce0539f25bfa77214e27b83076e02606a7446f49475e8a3fb3361d1bd7b0b6",
+        "target_bundle_sha256": "cc056f353f596b842710f68a46e89d62d5c44c2a9760c3480ea30738513c45ef"
+      },
+      "patches": [
+        {
+          "from_version": "1.0.39",
+          "file_name": "app_bundle.1.0.39_to_1.0.40.patch.zip",
+          "file_size": 1258,
+          "checksum_sha256": "83f3407bb961bbfdb232a3afff4382098322beb6597642a75d4093bbf4d48378",
+          "base_bundle_sha256": "26ce0539f25bfa77214e27b83076e02606a7446f49475e8a3fb3361d1bd7b0b6",
+          "target_bundle_sha256": "cc056f353f596b842710f68a46e89d62d5c44c2a9760c3480ea30738513c45ef"
+        },
+        {
+          "from_version": "1.0.38",
+          "file_name": "app_bundle.1.0.38_to_1.0.40.patch.zip",
+          "file_size": 843,
+          "checksum_sha256": "a0bb4970d8b7737c2b1fea118111e3d15c947a53070c7b6e0840b1e102e7e28e",
+          "base_bundle_sha256": "1e2f69002094dc497841c8451291d4cbd202c1425f074ffc02065fa1d7d547e2",
+          "target_bundle_sha256": "cc056f353f596b842710f68a46e89d62d5c44c2a9760c3480ea30738513c45ef"
+        }
+      ]
+    }
+  ]
+}

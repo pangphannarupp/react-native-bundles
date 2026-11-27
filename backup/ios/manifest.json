@@ -1,0 +1,42 @@
+{
+  "platform": "ios",
+  "build_mode": "both",
+  "generated_at": "2026-11-26T06:41:09.819Z",
+  "updates": [
+    {
+      "remote_id": "app_bundle",
+      "target_version": "1.0.40",
+      "bundler": "metro",
+      "build_mode": "both",
+      "file_name": "app_bundle.1.0.40.zip",
+      "file_size": 744717,
+      "checksum_sha256": "3aeb176388eddb6e87ecaad7b2193e3ca224fe5188465f6e1a3b6d3b6b35150e",
+      "patch": {
+        "from_version": "1.0.39",
+        "file_name": "app_bundle.1.0.39_to_1.0.40.patch.zip",
+        "file_size": 1257,
+        "checksum_sha256": "df5b1801982f6165b8012dc7303bfc97908ac1649979a53263d7541524cb039f",
+        "base_bundle_sha256": "757963f91716c21d73827dd3f1a54705d71f3a0d09bafb6baa59d0dbe622ac70",
+        "target_bundle_sha256": "413a9fe3264f0d27cfbf05a2d3605083b60ffe717d590b4919f2c6de40bfe04e"
+      },
+      "patches": [
+        {
+          "from_version": "1.0.39",
+          "file_name": "app_bundle.1.0.39_to_1.0.40.patch.zip",
+          "file_size": 1257,
+          "checksum_sha256": "df5b1801982f6165b8012dc7303bfc97908ac1649979a53263d7541524cb039f",
+          "base_bundle_sha256": "757963f91716c21d73827dd3f1a54705d71f3a0d09bafb6baa59d0dbe622ac70",
+          "target_bundle_sha256": "413a9fe3264f0d27cfbf05a2d3605083b60ffe717d590b4919f2c6de40bfe04e"
+        },
+        {
+          "from_version": "1.0.38",
+          "file_name": "app_bundle.1.0.38_to_1.0.40.patch.zip",
+          "file_size": 821,
+          "checksum_sha256": "f432c37c81a1878aed288d75bb165fceca883231fcacea1f865a0d22f373cdf1",
+          "base_bundle_sha256": "d652f0d9c10769677c9acd80fcdbc9b93e279ad05552380233a33e21b3199f4b",
+          "target_bundle_sha256": "413a9fe3264f0d27cfbf05a2d3605083b60ffe717d590b4919f2c6de40bfe04e"
+        }
+      ]
+    }
+  ]
+}
