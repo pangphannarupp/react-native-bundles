@@ -1,50 +1,58 @@
 {
   "platform": "ios",
   "build_mode": "both",
-  "generated_at": "2026-11-27T14:08:39.887Z",
+  "generated_at": "2026-11-27T14:14:37.889Z",
   "updates": [
     {
       "remote_id": "app_bundle",
-      "target_version": "1.3",
+      "target_version": "1.4",
       "bundler": "metro",
       "bundle_format": "hbc",
       "hermes_bytecode_version": 99,
       "build_mode": "both",
-      "file_name": "app_bundle.1.3.zip",
-      "file_size": 1405683,
-      "checksum_sha256": "b37d12c1002819c320f06cf8fcb013a3a1b33705b32206e4323d4cea7d368a4a",
+      "file_name": "app_bundle.1.4.zip",
+      "file_size": 1405686,
+      "checksum_sha256": "e754efee633057d6c8fd02cf2325a4025d98093113edf65413e6895362d1ae3d",
       "patch": {
-        "from_version": "1.2",
-        "file_name": "app_bundle.1.2_to_1.3.patch.zip",
-        "file_size": 271758,
-        "checksum_sha256": "a2adcc7be1ea602c287d9d76c7305acda88ba63f065b58e703c9494b12bafcfa",
-        "base_bundle_sha256": "48247b021934b1fef070e884c4f8fce5e942ca4b3d9dd2c5903302b95328d866",
-        "target_bundle_sha256": "870075e39ee6e6f7f5b0040757db8bd76f92056c55e8204642392c66c89a261f"
+        "from_version": "1.3",
+        "file_name": "app_bundle.1.3_to_1.4.patch.zip",
+        "file_size": 13188,
+        "checksum_sha256": "70670c73630d7d365a38ae7d093c275368f03e4a3a3e41a77a6e2b323eca036d",
+        "base_bundle_sha256": "870075e39ee6e6f7f5b0040757db8bd76f92056c55e8204642392c66c89a261f",
+        "target_bundle_sha256": "d9dede84ecca00a0dd950bb9e8de10173ab721e60df58da84db7a5678a62a023"
       },
       "patches": [
         {
+          "from_version": "1.3",
+          "file_name": "app_bundle.1.3_to_1.4.patch.zip",
+          "file_size": 13188,
+          "checksum_sha256": "70670c73630d7d365a38ae7d093c275368f03e4a3a3e41a77a6e2b323eca036d",
+          "base_bundle_sha256": "870075e39ee6e6f7f5b0040757db8bd76f92056c55e8204642392c66c89a261f",
+          "target_bundle_sha256": "d9dede84ecca00a0dd950bb9e8de10173ab721e60df58da84db7a5678a62a023"
+        },
+        {
           "from_version": "1.2",
-          "file_name": "app_bundle.1.2_to_1.3.patch.zip",
-          "file_size": 271758,
-          "checksum_sha256": "a2adcc7be1ea602c287d9d76c7305acda88ba63f065b58e703c9494b12bafcfa",
+          "file_name": "app_bundle.1.2_to_1.4.patch.zip",
+          "file_size": 271474,
+          "checksum_sha256": "b43a89c3320be66ef48f93b00028c70cc649e4f66af660788d45dab2f6a915f4",
           "base_bundle_sha256": "48247b021934b1fef070e884c4f8fce5e942ca4b3d9dd2c5903302b95328d866",
-          "target_bundle_sha256": "870075e39ee6e6f7f5b0040757db8bd76f92056c55e8204642392c66c89a261f"
+          "target_bundle_sha256": "d9dede84ecca00a0dd950bb9e8de10173ab721e60df58da84db7a5678a62a023"
         },
         {
           "from_version": "1.1",
-          "file_name": "app_bundle.1.1_to_1.3.patch.zip",
-          "file_size": 271660,
-          "checksum_sha256": "f680d51d6b00401aa3b7b3250e953346c748b9a342b24c65336311c6c0a040a7",
+          "file_name": "app_bundle.1.1_to_1.4.patch.zip",
+          "file_size": 271343,
+          "checksum_sha256": "7f2aa58cf5664c9ded902b90d265bbe67068f14c9e4b52317a2e6b5d1b81e4fc",
           "base_bundle_sha256": "73b1952861f68b4fdc8fb5b353f4f7f62f6a8524d64a36a30934277de05e62eb",
-          "target_bundle_sha256": "870075e39ee6e6f7f5b0040757db8bd76f92056c55e8204642392c66c89a261f"
+          "target_bundle_sha256": "d9dede84ecca00a0dd950bb9e8de10173ab721e60df58da84db7a5678a62a023"
         },
         {
           "from_version": "1.0",
-          "file_name": "app_bundle.1.0_to_1.3.patch.zip",
-          "file_size": 271716,
-          "checksum_sha256": "8439ade444b20e8c98e4a5e26cbfd28f08dbceb182f20c8b5f5b44768428f6b5",
+          "file_name": "app_bundle.1.0_to_1.4.patch.zip",
+          "file_size": 271461,
+          "checksum_sha256": "35824e96f56a12d0ba8c45ab85129d9dbb482bf4ffc279568e9bdf2f5e1ba204",
           "base_bundle_sha256": "36128f70fa1edccc5f98feb33ff345738f7ab7ec4ef464122acd793ee6d559e2",
-          "target_bundle_sha256": "870075e39ee6e6f7f5b0040757db8bd76f92056c55e8204642392c66c89a261f"
+          "target_bundle_sha256": "d9dede84ecca00a0dd950bb9e8de10173ab721e60df58da84db7a5678a62a023"
         }
       ]
     }
