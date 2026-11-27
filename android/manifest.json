@@ -1,7 +1,7 @@
 {
   "platform": "android",
   "build_mode": "both",
-  "generated_at": "2026-11-27T13:33:38.565Z",
+  "generated_at": "2026-11-27T14:07:51.885Z",
   "updates": [
     {
       "remote_id": "app_bundle",
@@ -11,40 +11,40 @@
       "hermes_bytecode_version": 99,
       "build_mode": "both",
       "file_name": "app_bundle.1.3.zip",
-      "file_size": 1408262,
-      "checksum_sha256": "30796852dd4596afafe43f92ec1b7f4a5f72129bc000e37d87643595284b46df",
+      "file_size": 1408949,
+      "checksum_sha256": "e8a6178c870d606aa5b9020cc04b6c95a93f58b54da499daa57ed2b2cb56cf2e",
       "patch": {
         "from_version": "1.2",
         "file_name": "app_bundle.1.2_to_1.3.patch.zip",
-        "file_size": 998244,
-        "checksum_sha256": "7449de34a0c0c7f850ebeeff52166d1dca8a1425e1fac7d3d952ff127bcc91b5",
+        "file_size": 278903,
+        "checksum_sha256": "e53b2f695eeba4a790a343865ea6c65829d045c5c06bfbe0594405e4b67d6365",
         "base_bundle_sha256": "8573c1724b8a24a9a0d70c9cbb6d7d6a1ae482c30dcb3109ab8eb59f88153373",
-        "target_bundle_sha256": "0dbebcafd8a443ffdafe9dd5fe1c8550f0fbee893cc24c3ea80d4de2ededcf9a"
+        "target_bundle_sha256": "ea140cf65f1a608c824145cf4fd3ef709e738579362accb68c0adb9db8c054a3"
       },
       "patches": [
         {
           "from_version": "1.2",
           "file_name": "app_bundle.1.2_to_1.3.patch.zip",
-          "file_size": 998244,
-          "checksum_sha256": "7449de34a0c0c7f850ebeeff52166d1dca8a1425e1fac7d3d952ff127bcc91b5",
+          "file_size": 278903,
+          "checksum_sha256": "e53b2f695eeba4a790a343865ea6c65829d045c5c06bfbe0594405e4b67d6365",
           "base_bundle_sha256": "8573c1724b8a24a9a0d70c9cbb6d7d6a1ae482c30dcb3109ab8eb59f88153373",
-          "target_bundle_sha256": "0dbebcafd8a443ffdafe9dd5fe1c8550f0fbee893cc24c3ea80d4de2ededcf9a"
+          "target_bundle_sha256": "ea140cf65f1a608c824145cf4fd3ef709e738579362accb68c0adb9db8c054a3"
         },
         {
           "from_version": "1.1",
           "file_name": "app_bundle.1.1_to_1.3.patch.zip",
-          "file_size": 998270,
-          "checksum_sha256": "5b82efc16e070dfd3d02dc5debac279467c6265a9239327f3a8697ac03ccbf0f",
+          "file_size": 278621,
+          "checksum_sha256": "01f92947631b5a886a1e5b22e5d18a97aa569ca2f63ffbd554caa92a791d747b",
           "base_bundle_sha256": "282231cc6cbd7bf70e7bcdcff883bdd5ea927f327b44e432a2b74b3974bc4d24",
-          "target_bundle_sha256": "0dbebcafd8a443ffdafe9dd5fe1c8550f0fbee893cc24c3ea80d4de2ededcf9a"
+          "target_bundle_sha256": "ea140cf65f1a608c824145cf4fd3ef709e738579362accb68c0adb9db8c054a3"
         },
         {
           "from_version": "1.0",
           "file_name": "app_bundle.1.0_to_1.3.patch.zip",
-          "file_size": 998251,
-          "checksum_sha256": "ef281944073bd9a326ba6a786ac4aba7036951a1a0c9a73eb862441911d2d99b",
+          "file_size": 278621,
+          "checksum_sha256": "9d6d9f5e7268268e34eba8af4e70bd5b133342978c73ef164fdffad19eb1c751",
           "base_bundle_sha256": "49088c52896a6e79004bc5ac7a50342a35c06d7e78883047ae627bd7a8e21743",
-          "target_bundle_sha256": "0dbebcafd8a443ffdafe9dd5fe1c8550f0fbee893cc24c3ea80d4de2ededcf9a"
+          "target_bundle_sha256": "ea140cf65f1a608c824145cf4fd3ef709e738579362accb68c0adb9db8c054a3"
         }
       ]
     }
